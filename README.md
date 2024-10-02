@@ -11,6 +11,7 @@ Matlab implementation of  Weighted edge-based low-cost artifacts-free high-quali
 Provide the Original image as input to the above Call_Demosaicking.p file, it returns demosaicked image.
 
 usage
+
 I = 'kodim1.png';
 
 Demosai_img=Call_Demosaicking(I);
